@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...nothin...
 - 📫 How to reach me: https://vikrantvjoliya.github.io/
-- ⚡ Fun fact: me_noob_sir.
+- ⚡ 
 
 <img src="https://media.giphy.com/media/ejDAt8m2k9mN6LRsQ2/giphy.gif">
