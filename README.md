@@ -8,4 +8,4 @@
 - 📫 How to reach me: https://vikrantvjoliya.github.io/
 - ⚡ 
 
-<img src="https://media.giphy.com/media/ejDAt8m2k9mN6LRsQ2/giphy.gif">
+//<img src="https://media.giphy.com/media/ejDAt8m2k9mN6LRsQ2/giphy.gif">
