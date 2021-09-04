@@ -1,11 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on MERN stack.
-- 🌱 I’m currently learning ML, AI and Ethical Hacking. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...nothin...
-- 📫 How to reach me: https://vikrantvjoliya.github.io/
-- ⚡ 
-
-//<img src="https://media.giphy.com/media/ejDAt8m2k9mN6LRsQ2/giphy.gif">
+problems should be solved with kindness rather than violence![image](https://user-images.githubusercontent.com/60104131/132082155-4adedf6c-4566-4cf2-ac53-4846b241fbf4.png)
