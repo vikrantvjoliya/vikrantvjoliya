@@ -9,8 +9,8 @@ problems should be solved with kindness rather than violence!
 
 
 <a href="https://github.com/vikrantvjoliya/Chat-Application-using-React-JS-with-Firebases">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikrantvjoliya&repo=Chat-Application-using-React-JS-with-Firebases" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/vikrantvjoliya/Automated-Attendance-Python-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikrantvjoliya&repo=Automated-Attendance-Python-Application" />
 </a>
