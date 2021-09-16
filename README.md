@@ -1,6 +1,6 @@
 problems should be solved with kindness rather than violence!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B627F7&multiline=true&lines=Hi+I+am+Vikrant;problems+should+be+solved+;with+kindness+rather+than+violence!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B627F7&center=true&lines=Hi+I+am+Vikrant;problems+should+be+solved+;with+kindness+rather+than+violence!)](https://git.io/typing-svg)
 
 ![vikrantvjoliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikrantvjoliya&show_icons=true&theme=radical)
 
