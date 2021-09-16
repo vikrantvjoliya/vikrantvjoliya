@@ -8,7 +8,7 @@ problems should be solved with kindness rather than violence!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantvjoliya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/vikrantvjoliya/Chat-Application-using-React-JS-with-Firebases">
+<a href="https://github.com/vikrantvjoliya/Chat-Application-using-React-JS-with-Firebase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikrantvjoliya&repo=Chat-Application-using-React-JS-with-Firebases" />
 </a>
 <a href="https://github.com/vikrantvjoliya/Automated-Attendance-Python-Application">
