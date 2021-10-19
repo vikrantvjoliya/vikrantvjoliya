@@ -1,4 +1,4 @@
-<h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B627F7&center=true&lines=Hi+I+am+Vikrant;problems+should+be+solved+;with+kindness+rather+than+violence!)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B627F7&center=true&lines=Hi+I+am+Vikrant;problems+should+be+solved+;with+kindness+rather+than+violence!)](https://git.io/typing-svg)
 <h1>Likes : Python, C++, OpenCv, Pixel Art, Micros, Cursors, Linux and dorking.</h1>
 <h1>Current: C++⚓ Docker 🛳 </h1>
 
