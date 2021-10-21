@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B627F7&center=true&lines=Hi+I+am+Vikrant;problems+should+be+solved+;with+kindness+rather+than+violence!)](https://git.io/typing-svg)
+  [![Typing SVG][![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Maiandra+GD&color=%2351F76B&size=18&center=true&vCenter=true&lines=I+woke+up+And;+I+chose+to+Code++;instead+of+Violence+%E2%9A%93)](https://git.io/typing-svg)
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <img align="right" height="50" width="75" alt="" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
 
