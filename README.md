@@ -54,7 +54,11 @@ relocation_interests: ["Japan", "Seoul", "Norway", "Russia", "Taiwan"]
   <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vikrantvjoliya&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" width = 400>
 </p>
 
-
+<details>
+  <br />
+  <summary><b>Links
+</b></summary>
+  	<ul>
 ## Links
 
 <p align="center">
@@ -83,7 +87,8 @@ relocation_interests: ["Japan", "Seoul", "Norway", "Russia", "Taiwan"]
   <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a>
   <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
 </p>
-
+</ul>
+</details>
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vikrantvjoliya.vikrantvjoliya" alt="visitor badge"/>
 </p>
