@@ -59,7 +59,6 @@ relocation_interests: ["Japan", "Seoul", "Norway", "Russia", "Taiwan"]
   <img src = "https://github-readme-stats.vercel.app/api?username=vikrantvjoliya&show_icons=true&theme=radical" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=vikrantvjoliya&theme=dark&hide_border=true" width = 400>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantvjoliya&layout=compact" width = 400>
-  <img src = "https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vikrantvjoliya&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" width = 400>
 </p>
 
 <details>
@@ -95,9 +94,7 @@ relocation_interests: ["Japan", "Seoul", "Norway", "Russia", "Taiwan"]
 </p>
 </ul>
 </details>
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=vikrantvjoliya.vikrantvjoliya" alt="visitor badge"/>
-</p>
+
 
 <details>
   <br />
@@ -115,6 +112,10 @@ relocation_interests: ["Japan", "Seoul", "Norway", "Russia", "Taiwan"]
 </details>
 
 #
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=vikrantvjoliya.vikrantvjoliya" alt="visitor badge"/>
+</p>
 
 <div align="center">
 
