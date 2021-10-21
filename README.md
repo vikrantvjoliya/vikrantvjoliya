@@ -6,7 +6,10 @@
 ![vikrantvjoliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikrantvjoliya&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantvjoliya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vikrantvjoliya&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=vikrantvjoliya&theme=dark&hide_border=true" width = 400>
+</p>
 
 <h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
