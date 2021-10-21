@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B627F7&center=true&lines=Hi+I+am+Vikrant;problems+should+be+solved+;with+kindness+rather+than+violence!)](https://git.io/typing-svg)
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
 
 I am Vikrant, people call me viki, currently pursuing my bachelor's degree majoring in computer science and engineering  from [Kalasalingam Academy Of Research and Education ](https://kalasalingam.ac.in/site/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -107,7 +108,7 @@ relocation_interests: ["Japan", "Seoul", "Norway", "Russia", "Taiwan"]
       <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
       <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	⚛️ Checkout My VSCode Configrations <a href="">Here</a>.
 	</ul>
 </details>
 
