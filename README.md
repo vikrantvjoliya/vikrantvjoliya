@@ -21,7 +21,7 @@ technical_interests: ["Economics"]
 currently_learning: ["Z Algorithm ", "Vectorization of Stop Words"]
 hobbies: ["Cricket", "Cinema", "Anything dumb and useless"]
 
-relocation_interests: ["Japan", "Seoul", "Norway", "Russia", "Taiwan"]
+relocation_interests: ["Japan", "Denmark", "Norway", "Russia", "Poland"]
 ```
 ## ⚡ Technologies
 
