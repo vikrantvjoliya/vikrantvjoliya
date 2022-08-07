@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Maiandra+GD&color=%2351F76B&size=18&center=true&vCenter=true&lines=I+woke+up+And;+I+chose+to+Code++;instead+of+Violence+%E2%9A%93)](https://git.io/typing-svg)
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <img align="right" height="50" width="75" alt="" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
 
 I am Vikrant, people call me viki, currently pursuing my bachelor's degree majoring in computer science and engineering  from [Kalasalingam Academy Of Research and Education ](https://kalasalingam.ac.in/site/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
