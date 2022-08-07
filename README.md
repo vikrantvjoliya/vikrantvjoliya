@@ -14,14 +14,7 @@ I am Vikrant, people call me viki, currently pursuing my bachelor's degree major
 ```yaml
 name: Vikrant V Joliya
 from: INDIA
-education: ["Bachelor's in Computer science"]
-job: LOOKING FOR SDE
-
-technical_interests: ["Economics"]
-currently_learning: ["Z Algorithm ", "Vectorization of Stop Words"]
-hobbies: ["Cricket", "Cinema", "Anything dumb and useless"]
-
-relocation_interests: ["Japan", "Denmark", "Norway", "Russia", "Poland"]
+education: ["Bachelor Of Technology in Computer science and Engineering"]
 ```
 ## ⚡ Technologies
 
