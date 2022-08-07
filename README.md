@@ -47,29 +47,11 @@ education: ["Bachelor Of Technology in Computer science and Engineering"]
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantvjoliya&layout=compact" width = 400>
 </p>
 
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-      <li><b>OS:</b> Ubuntu 20.04</li>
-      <li><b>Laptop: </b> ACER PREDATOR HELIOS 300 </li>
-      <li><b>Browser: </b> Brave Web Browser</li>
-      <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-      <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-      <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
-	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="">Here</a>.
-	</ul>
-</details>
-
 #
 
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vikrantvjoliya.vikrantvjoliya" alt="visitor badge"/>
 </p>
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
 
 </div>
